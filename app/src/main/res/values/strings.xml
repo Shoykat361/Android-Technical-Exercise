@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Technical Exercise</string>
+    <string name="fetch_button_text">Fetch Image</string>
+    <string name="error_message">No network connection</string>
 </resources>
