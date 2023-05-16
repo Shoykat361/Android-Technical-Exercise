@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android Technical Exercise</string>
+    <string name="app_name">Random Image</string>
     <string name="fetch_button_text">Fetch Image</string>
-    <string name="error_message">No network connection</string>
+    <string name="error_message">No Internet connection</string>
 </resources>
